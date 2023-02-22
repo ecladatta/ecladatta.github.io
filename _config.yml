@@ -83,7 +83,7 @@ author:
   name             : "ECLADATTA"
   avatar           : "profile.png"
   bio              : "ExtraCtion of LAtent knowledge in Documents by conjointly Analyzing Texts and TAbles (ANR-22-CE23-0020)"
-  location         : "Location"
+  location         : 
   employer         : Orange, EURECOM, IRIT
   pubmed           : 
   googlescholar    : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
