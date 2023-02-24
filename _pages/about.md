@@ -24,6 +24,7 @@ For example, in the figure below, a Wikipedia page about a specific NBA team men
 <img src="images/ecladatta-example.png" alt="" />
 
 The ECLADATTA project aims at leveraging this complementarity between tables, texts, and knowledge graphs to propose a joint knowledge extraction and reconciliation process. The overall and original objective of ECLADATTA is to propose new methods and to develop tools 
+* to assess the relatedness between tables and texts (within documents and across documents) and build on-demand text-table corpora based on a variety of filtering criteria
 * to automatically extract knowledge jointly from tables and related texts; 
 * to check the consistency of knowledge from tables, texts, and knowledge graphs
 * to refine tables, texts, and general or domain-specific knowledge graphs. 
