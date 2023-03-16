@@ -35,6 +35,6 @@ The ECLADATTA project aims at leveraging this complementarity between tables, te
 
 <img src="images/orange.png" alt= "Orange" width="80px" style="margin-right: 20px"><img src="images/eurecom.jpg" alt= "EURECOM" width="166px" style="margin-right: 20px"><img src="images/irit.png" alt="IRIT" width="74px">
 
-### Associed Partner
+### Associated Partner
 
 <img src="images/wikimedia-fr.png" alt= "Wikimédia France" width="300px">
