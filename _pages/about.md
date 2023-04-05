@@ -38,3 +38,7 @@ The ECLADATTA project aims at leveraging this complementarity between tables, te
 ### Associated Partner
 
 <img src="images/wikimedia-fr.png" alt= "Wikimédia France" width="300px">
+
+## Jobs
+
+* [Postdoctoral position - Knowledge extraction from texts and tables to enrich a knowledge graph](files/2023-04-04-OffrePostDoc-Ecladatta.pdf)
