@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 TRIPLET (TRIPLET Extraction from Triplet Text, Table, Knowledge Graph) Challenge 2025 @ 24th International Semantic Web Conference (ISWC 2025), Nara, Japan
+<img src="images/ecladatta-example.png" alt="" />
 
 ## Task Description
 In recent years, the research community has shown increasing interest in the joint understanding of text and tabular data, often, for performing tasks such as question answering or fact checking where evidences can be found in texts and tables. 
