@@ -1,7 +1,8 @@
 # main links links
 main:
+  - title: "TRIPLET 2025"
+    url: /triplet/
   - title: "Publications"
     url: /publications/
-
   - title: "Talks"
     url: /talks/    
