@@ -3,8 +3,6 @@ permalink: /triplet/
 title: "TRIPLET Challenge @ ISWC2025"
 excerpt: "TRIPLET Challenge"
 author_profile: true
-redirect_from: 
-  - /triplet.html
 ---
 
 TRIPLET Challenge 2025 @ 24th International Semantic Web Conference (ISWC 2025), Nara, Japan
