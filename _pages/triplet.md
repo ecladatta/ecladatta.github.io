@@ -24,22 +24,21 @@ In this context, the TRIPLET 2025 challenge aims at proposing three sub-tasks an
 ### Important Dates
 
 | Event                                 | Date          |
-| ------------------------------------ | -------------- |
+| ------------------------------------- | -------------- |
 | Dataset (train and dev) release       | 30 March 2025 |
-| Release of test dataset               | TBD           |
-| Submission of test output and systems | TBD           |
-| Submission of system description      | TBD           |
-| Results announcement                  | TBD           |
+| Release of test set                   | 16 May 2025 |
+| Submission of systems                 | 28 June 2025 |
+| System Results & Notification of Acceptance | 19 July 2025 |
 | Presentations@ISWC                    | November 2025 |
 
 ### Submission Details
 TBD
 
 ## Challenge Organizers
-- Raphael Troncy (EURECOM, France)
-- Yoan Chabot (Orange, France)
-- Veronique Moriceau (IRIT, France)
-- Nandana Mihindukulasooriya (IBM Research, USA)
+- [Raphael Troncy](https://www.eurecom.fr/fr/people/troncy-raphael) (EURECOM, France)
+- [Yoan Chabot](https://yoanchabot.github.io/) (Orange, France)
+- [Véronique Moriceau](https://www.irit.fr/~Veronique.Moriceau/) (IRIT, France)
+- [Nandana Mihindukulasooriya](https://scholar.google.es/citations?user=obOPbVQAAAAJ&hl=en) (IBM Research, USA)
     
 Contact: 
 - raphael.troncy@eurecom.fr 
