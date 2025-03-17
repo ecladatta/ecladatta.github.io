@@ -1,10 +1,9 @@
 ---
-permalink: /triplet
+permalink: /triplet/
 title: "TRIPLET Challenge @ ISWC2025"
 excerpt: "TRIPLET Challenge"
 author_profile: true
 redirect_from: 
-  - /triplet/
   - /triplet.html
 ---
 
