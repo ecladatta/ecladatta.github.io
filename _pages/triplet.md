@@ -9,19 +9,34 @@ TRIPLET Challenge 2025 @ 24th International Semantic Web Conference (ISWC 2025),
 TRIPLET stands for TRIPLET Extraction from Triplet Text, Table, Knowledge Graph
 
 ## Task Description
+In recent years, the research community has shown increasing interest in the joint understanding of text and tabular data, often, for performing tasks such as question answering or fact checking where evidences can be found in texts and tables. Hence, various benchmarks have been developed for jointly querying tabular data and textual documents in domains such as finance, scientific publications, and open domain. While benchmarks for triple extraction from text for Knowledge Graph construction and semantic annotation of tabular data exist in the community, there remains a gap in benchmarks and tasks that specifically address the joint extraction of triples from text and tables by leveraging complementary clues across these different modalities.
 
-Complementarity between tables, texts, and knowledge graphs and a joint knowledge extraction and reconciliation process constitute the focus of the ECLADATTA project.
-Indeed, texts and tables may be related when presented in the same document or even across documents and complement each other.
-For example, in the figure below, a Wikipedia page about a specific NBA team mentions that two basketball players were tested positive for COVID-19, while those names are missing in a summary table from another dedicated Wikipedia page. The date indicated in the Wikipedia table could nevertheless be used to correct or complete the Wikidata entries for the two players.
+In this context, the TRIPLET 2025 challenge aims at proposing three sub-tasks and a common benchmark for understanding the complementarity between tables, texts, and knowledge graphs, and in particular to propose a joint knowledge extraction and reconciliation process.
+- Sub-task 1: the goal is to assess the relatedness between tables and textual passages (within documents and across documents). For example, in the figure below, a participant tool should identify the relatedness between the sentence containing the entity "AirPort Extreme 802.11n" (highlighted in yellow) and the data table providing information about output power and frequency for this entity. Participants will be provided with tables and textual passages that would need to be ranked. The evaluation will use metrics such as P@k, R@k and F1@k.
+- Sub-task 2: the goal is to automatically extract knowledge jointly from tables and related texts. For example, in the figure below, a participant tool should extract triples composed of mentions located partly in the text and partly in the table and disambiguated with entities and predicates identified in the Wikidata reference knowledge graph. Knowledge extraction will be carried out in Open Extraction Information mode, using the Wikidata knowledge graph as a reference, but with the possibility that certain predicates or entities may not be present in the graph. Similar to the Text2KGBench evaluation, and because the set of triples are not exhaustive for a given sentence, to avoid false negatives, we will follow a locally closed approach by only considering the relations that are part of the ground truth. The evaluation will then use metrics such as P, R and F1.
+- Sub-task 3: the goal is to check the consistency of knowledge extracted from tables and texts with existing triples in the Wikidata knowledge graph. Different kind of inconsistencies will be considered in this task.
 
 ## Call for Participants
 
 ### Important Dates
+| Event                                 | Date          |
+|---------------------------------------|---------------|
+| Dataset (train and dev) release       | 30 March 2025 |
+| Release of test dataset               | TBD           |
+| Submission of test output and systems | TBD           |
+| Submission of system description      | TBD           |
+| Results announcement                  | TBD           |
+| Presentations@ISWC                    | November 2025 |
 
 ### Submission Details
+TBD
 
 ## Challenge Organizers
-
-Photo team here
-
-Contact here 
+- Raphael Troncy (EURECOM, France)
+- Yoan Chabot (Orange, France)
+- Veronique Moriceau (IRIT, France)
+- Nandana Mihindukulasooriya (IBM Research, USA)
+    
+Contact: 
+- raphael.troncy@eurecom.fr 
+- yoan.chabot@orange.com
