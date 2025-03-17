@@ -19,8 +19,9 @@ In this context, the TRIPLET 2025 challenge aims at proposing three sub-tasks an
 ## Call for Participants
 
 ### Important Dates
+
 | Event                                 | Date          |
-|---------------------------------------|---------------|
+| ------------------------------------ | -------------- |
 | Dataset (train and dev) release       | 30 March 2025 |
 | Release of test dataset               | TBD           |
 | Submission of test output and systems | TBD           |
