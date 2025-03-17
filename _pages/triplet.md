@@ -17,7 +17,7 @@ In this context, the TRIPLET 2025 challenge aims at proposing three sub-tasks an
 - Sub-task 2: the goal is to automatically extract knowledge jointly from tables and related texts. For example, in the figure below, a participant tool should extract triples composed of mentions located partly in the text and partly in the table and disambiguated with entities and predicates identified in the Wikidata reference knowledge graph. Knowledge extraction will be carried out in Open Extraction Information mode, using the Wikidata knowledge graph as a reference, but with the possibility that certain predicates or entities may not be present in the graph. Similar to the Text2KGBench evaluation, and because the set of triples are not exhaustive for a given sentence, to avoid false negatives, we will follow a locally closed approach by only considering the relations that are part of the ground truth. The evaluation will then use metrics such as P, R and F1.
 - Sub-task 3: the goal is to check the consistency of knowledge extracted from tables and texts with existing triples in the Wikidata knowledge graph. Different kind of inconsistencies will be considered in this task.
 
-<img src="https://github.com/ecladatta/ecladatta.github.io/blob/84263e7a843c3b5856911273614a5e6a85a34034/images/triplet_annotation_tool.png" alt="Annotation tool" />
+<img src="../images/triplet_annotation_tool.png" alt="Annotation tool" />
 
 ## Data & Evaluation
 For each of the 3 sub-tasks, we will release a dataset with ground-truth annotations, enabling participant teams to develop machine learning-based systems. 
