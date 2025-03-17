@@ -42,5 +42,4 @@ TBD
 - [Nandana Mihindukulasooriya](https://scholar.google.es/citations?user=obOPbVQAAAAJ&hl=en) (IBM Research, USA)
     
 Contact: 
-- raphael.troncy@eurecom.fr 
-- yoan.chabot@orange.com
+For discussions, please use our [Google Group](https://groups.google.com/g/triplet-challenge)
