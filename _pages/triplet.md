@@ -40,7 +40,7 @@ Additionally, we plan to encourage participants to develop open-source solutions
 | Presentations@ISWC                    | November 2025 |
 
 ### Submission Details
-TBD
+[Register as participant on Codalab](https://codalab.lisn.upsaclay.fr/competitions/23094)
 
 ## Challenge Organizers
 - [Raphael Troncy](https://www.eurecom.fr/fr/people/troncy-raphael) (EURECOM, France)
