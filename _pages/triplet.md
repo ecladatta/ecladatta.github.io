@@ -52,7 +52,7 @@ The TRIPLET 2026 challenge is proposing three sub-tasks and benchmarks for under
 
 The goal of this task is to assess the relatedness between tables and textual passages (within documents and across documents). For this purpose, we have constructed LATTE (Linking Across Table and Text for Relatedness Evaluation), a human annotated dataset comprising table–text pairs with relatedness labels. LATTE consists of 7,674 unique tables and 41,880 unique textual paragraphs originating from 3,826 distinct Wikipedia pages. Each text paragraph is drawn from the same or contextually linked pages as the corresponding table, rather than being artificially generated. LATTE provides a challenging benchmark for cross-modal reasoning by requiring classification of related and unrelated table–text pairs. Unlike prior resources centered on table-to-text generation or text retrieval, LATTE emphasizes fine-grained semantic relatedness between structured and unstructured data.
 
-The Figure below provides an example, using a web-annotation tool we developed, of how we identify the relatedness between the sentence containing the entity <span style="color:yellow">AirPort Extreme 802.11n</span> and the data table providing information about output power and frequency for this entity. Participants will be provided with tables and textual passages that would need to be ranked. The evaluation will use metrics such as P@k, R@k and F1@k.
+The Figure below provides an example, using a web-annotation tool we developed, of how we identify the relatedness between the sentence containing the entity <span style="color:orange">AirPort Extreme 802.11n</span> and the data table providing information about output power and frequency for this entity. Participants will be provided with tables and textual passages that would need to be ranked. The evaluation will use metrics such as P@k, R@k and F1@k.
 
 ### Sub-Task 2: Joint Relation Extraction Between Texts and Tables
 
@@ -84,7 +84,7 @@ Participants should [register on Codalab](https://codalab.lisn.upsaclay.fr/compe
 | Submission of results                 | 10 April 2026 |
 | System Results & Notification of Acceptance | 17 April 2026 |
 | Submission of System Papers           | 28 April 2026 |
-| Presentations @ TRIPLET               | May 2026 |
+| Presentations @ TRIPLET Workshop      | May 2026 |
 
 ## Workshop Organizers
 - [Raphael Troncy](https://www.eurecom.fr/fr/people/troncy-raphael) (EURECOM, France)
