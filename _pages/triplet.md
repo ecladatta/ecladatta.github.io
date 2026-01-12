@@ -40,7 +40,7 @@ We invite two types of submissions:
 
 All submissions should be formatted in the [CEUR layout format](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
-This workshop is double-blind and non-archival. Submissions are managed through EasyChair. All accepted papers will be presented as posters or as oral talks.
+This workshop is double-blind and non-archival. Submissions are managed through EasyChair at [https://easychair.org/conferences/?conf=triplet2026](https://easychair.org/conferences/?conf=triplet2026). All accepted papers will be presented as posters or as oral talks.
 
 ## TRIPLET Challenge
 
