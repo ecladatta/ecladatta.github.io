@@ -52,33 +52,37 @@ The TRIPLET 2026 challenge is proposing three sub-tasks and benchmarks for under
 
 The goal of this task is to assess the relatedness between tables and textual passages (within documents and across documents). For this purpose, we have constructed LATTE (Linking Across Table and Text for Relatedness Evaluation), a human annotated dataset comprising table–text pairs with relatedness labels. LATTE consists of 7,674 unique tables and 41,880 unique textual paragraphs originating from 3,826 distinct Wikipedia pages. Each text paragraph is drawn from the same or contextually linked pages as the corresponding table, rather than being artificially generated. LATTE provides a challenging benchmark for cross-modal reasoning by requiring classification of related and unrelated table–text pairs. Unlike prior resources centered on table-to-text generation or text retrieval, LATTE emphasizes fine-grained semantic relatedness between structured and unstructured data.
 
-The Figure below provides an example, using a web-annotation tool we developed, of how we identify the relatedness between the sentence containing the entity <span style="color:orange">AirPort Extreme 802.11n</span> and the data table providing information about output power and frequency for this entity. Participants will be provided with tables and textual passages that would need to be ranked. The evaluation will use metrics such as P@k, R@k and F1@k.
+The Figure below provides an example, using a web-annotation tool we developed, of how we identify the relatedness between the sentence containing the entity <span style="color:orange">AirPort Extreme 802.11n</span> and the data table providing information about output power and frequency for this entity. Participants are provided with tables and textual passages that would need to be ranked. The evaluation uses metrics such as P@k, R@k and F1@k.
+
+Go to [https://www.codabench.org/competitions/12776/](https://www.codabench.org/competitions/12776/) and enroll to participate in this Task.
 
 ### Sub-Task 2: Joint Relation Extraction Between Texts and Tables
 
 The goal of this task is to automatically extract knowledge jointly from tables and related texts. For this purpose, we created ReTaT, a dataset that can be used to train and evaluate systems for extracting such relations. This dataset is composed of (table, surrounding text) pairs extracted from Wikipedia pages and has been manually annotated with relation triples. ReTaT is organized in three subsets with distinct characteristics: domain (business, telecommunication and female celebrities), size (from 50 to 255 pairs), language (English vs French), type of relations (data vs object properties), close vs open list of relation, size of the surrounding text (paragraph vs full page). We then assessed its quality and suitability for the joint table-text relation extraction task using Large Language Models (LLMs).
 
-Given a Wikipedia page containing texts and tables and a list of predicates defined in Wikidata, a participant system should extract triples composed of mentions located partly in the text and partly in the table and disambiguated with entities and predicates identified in the Wikidata reference knowledge graph. For example, in the Figure below, an annotation triple `<Q13567390, P2109, 24.57>` is associated with mentions highlighted in yellow (subject), blue (predicate) and green (object) to annotate the document available at [https://en.wikipedia.org/wiki/AirPort_Extreme](https://en.wikipedia.org/wiki/AirPort_Extreme). Similar to the [Text2KGBench evaluation](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_14), and because the set of triples are not exhaustive for a given sentence, to avoid false negatives, we will follow a locally closed approach by only considering the relations that are part of the ground truth. The evaluation will then use metrics such as P, R and F1.
+Given a Wikipedia page containing texts and tables and a list of predicates defined in Wikidata, a participant system should extract triples composed of mentions located partly in the text and partly in the table and disambiguated with entities and predicates identified in the Wikidata reference knowledge graph. For example, in the Figure below, an annotation triple `<Q13567390, P2109, 24.57>` is associated with mentions highlighted in yellow (subject), blue (predicate) and green (object) to annotate the document available at [https://en.wikipedia.org/wiki/AirPort_Extreme](https://en.wikipedia.org/wiki/AirPort_Extreme). Similar to the [Text2KGBench evaluation](https://link.springer.com/chapter/10.1007/978-3-031-47243-5_14), and because the set of triples are not exhaustive for a given sentence, to avoid false negatives, we follow a locally closed approach by only considering the relations that are part of the ground truth. The evaluation then uses metrics such as P, R and F1.
+
+Go to [https://www.codabench.org/competitions/12936/](https://www.codabench.org/competitions/12936/) and enroll to participate in this Task.
 
 ### Sub-Task 3: Detecting Inconsistencies Between Texts, Tables and Knowledge Graphs
 
-The goal of this task is to check the consistency of knowledge extracted from tables and texts with existing triples in the Wikidata knowledge graph. Different kind of inconsistencies will be considered in this task.
+The goal of this task is to check the consistency of knowledge extracted from tables and texts with existing triples in the Wikidata knowledge graph. Different kind of inconsistencies will be considered in this task. Participants to this task will be able to report on their findings in their system paper.
 
 <img src="../images/triplet_annotation_tool.png" alt="Annotation tool" />
 
 ### Data & Evaluation
-For each of the 3 sub-tasks, we will release a dataset with ground-truth annotations, enabling participant teams to develop machine learning-based systems. The participants will be provided with a training set for training purposes and for hyperparameter optimizations and internal validations. 
+For the first 2 sub-tasks, we have released a training dataset with ground-truth annotations, enabling participant teams to develop machine learning-based systems, and in particular for training purposes and for hyperparameter optimizations and internal validations. 
 
 A separate blind test dataset will remain private and be used for ranking the submissions.
 
-Participants should [register on Codalab](https://codalab.lisn.upsaclay.fr/competitions/23094). Each team are allowed a limited number of daily submissions, and the highest achieved accuracy will be reported as the team's final result. We encourage participants to develop open-source solutions, to utilise and fine-tune pre-trained language models and to experiment with LLMs of various size in zero-shot or few-shot settings.
+Participants should [register on Codabench](https://www.codabench.org/) and then enroll for each sub-task separately ([Task 1](https://www.codabench.org/competitions/12776/) and [Task 2](https://www.codabench.org/competitions/12936/)). Each team are allowed a limited number of daily submissions, and the highest achieved accuracy will be reported as the team's final result. We encourage participants to develop open-source solutions, to utilise and fine-tune pre-trained language models and to experiment with LLMs of various size in zero-shot or few-shot settings.
 
 
 ### Challenge Important Dates
 
 | Event                                 | Date          |
 | ------------------------------------- | -------------- |
-| Release of training set               | 19 January 2026 |
+| Release of training set               | 13 February 2026 |
 | Deadline for registering to the challenge |15 March 2026 |
 | Release of test set                   | 24 March 2026 |
 | Submission of results                 | 10 April 2026 |
