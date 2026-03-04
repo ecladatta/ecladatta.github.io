@@ -14,7 +14,7 @@ This workshop aims to provide a forum for exchanging ideas between the NLP commu
 
 ## Important Dates
 
-+ **Submission deadline**: 3 March, 2026 (11:59pm, AoE)
++ **Submission deadline (extended)**: (~~3 March~~) 13 March, 2026 (11:59pm, AoE)
 + **Notifications**: 31 March, 2026
 + **Camera-ready deadline**: 15 April, 2026 (11:59pm, AoE)
 + **Workshop**: Sunday 10 May OR Monday 11 May 2026
