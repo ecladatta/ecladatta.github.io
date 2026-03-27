@@ -86,7 +86,7 @@ Participants should [register on Codabench](https://www.codabench.org/) and then
 | Deadline for registering to the challenge |15 March 2026 |
 | Release of test set                   | 24 March 2026 |
 | Submission of results                 | 10 April 2026 |
-| System Results & Notification of Acceptance | 17 April 2026 |
+| System Results                        | 17 April 2026 |
 | Submission of System Papers           | 28 April 2026 |
 | Presentations @ TRIPLET Workshop      | May 2026 |
 
