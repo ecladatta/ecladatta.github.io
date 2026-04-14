@@ -7,6 +7,10 @@ author_profile: true
 
 TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowledge Graph and associated Challenge @ [23rd European Semantic Web Conference (ESWC 2026)](https://2026.eswc-conferences.org/), Dubrovnik, Croatia
 
+## Program
+
+TBD
+
 ## Motivation
 Understanding information spread across text and table is essential for tasks such as question answering and fact checking. Existing benchmarks primarily deal with semantic table interpretation or reasoning over tables for question answering, leaving a gap in evaluating models that integrate tabular and textual information, perform joint information extraction across modalities, or can automatically detect inconsistencies between modalities.
 
@@ -15,9 +19,9 @@ This workshop aims to provide a forum for exchanging ideas between the NLP commu
 ## Important Dates
 
 + **Submission deadline (extended)**: (~~3 March~~) 13 March, 2026 (11:59pm, AoE)
-+ **Notifications**: 7 April, 2026
-+ **Camera-ready deadline**: 15 April, 2026 (11:59pm, AoE)
-+ **Workshop**: Sunday 10 May OR Monday 11 May 2026
++ **Notifications**: 15 April, 2026
++ **Camera-ready deadline**: 27 April, 2026 (11:59pm, AoE)
++ **Workshop**: Monday 11 May 2026 (morning)
 
 ## Scope
 
@@ -85,8 +89,7 @@ Participants should [register on Codabench](https://www.codabench.org/) and then
 | Release of training set               | 13 February 2026 |
 | Deadline for registering to the challenge |15 March 2026 |
 | Release of test set                   | 24 March 2026 |
-| Submission of results                 | 10 April 2026 |
-| System Results                        | 17 April 2026 |
+| Submission of results                 | 20 April 2026 |
 | Submission of System Papers           | 28 April 2026 |
 | Presentations @ TRIPLET Workshop      | May 2026 |
 
