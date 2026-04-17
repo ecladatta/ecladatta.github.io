@@ -7,7 +7,7 @@ author_profile: true
 
 TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowledge Graph and associated Challenge @ [23rd European Semantic Web Conference (ESWC 2026)](https://2026.eswc-conferences.org/), Dubrovnik, Croatia
 
-## 📅 Programme — TRIPLET @ ESWC 2026
+## 📅 Programme - Monday 11 May 2026
 
 | Time | Session | Title | Authors / Details |
 |------|--------|------|-------------------|
