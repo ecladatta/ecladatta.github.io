@@ -7,9 +7,24 @@ author_profile: true
 
 TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowledge Graph and associated Challenge @ [23rd European Semantic Web Conference (ESWC 2026)](https://2026.eswc-conferences.org/), Dubrovnik, Croatia
 
-## Program
+## 📅 Programme — TRIPLET @ ESWC 2026
 
-TBD
+| Time | Session | Title | Authors / Details |
+|------|--------|------|-------------------|
+| 09:00 | 🚀 Opening | Welcome & Introduction | Organisers |
+| 09:10 | 🎤 Keynote | **TBD** | TBD |
+| 10:10 | 📚 Paper Session | **Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks** | Jingcheng Wu, Ratan Bahadur Thapa, Mojtaba Nayyeri, Lucas Etteldorf, Max Finkenbeiner, Fabian Leeske and Steffen Staab |
+| 10:30 | ☕ Break | Coffee Break |  |
+| 11:00 | 📚 Paper Session | **From Rows to Narratives: Benchmarking Semantic Relatedness Across Tables and Paragraphs** | Fanfu Wei, Thibault Ehrhart and Raphaël Troncy |
+| 11:20 | 📚 Challenge Session | **TRIPLET Challenge Overview** | Raphael Troncy, Yoan Chabot, Véronique Moriceau, Nathalie Aussenac-Gilles and Mouna Kamel |
+| 11:30 | 📚 Challenge Session | **Task 1 Participant** | TBD |
+| 11:40 | 📚 Challenge Session | **Task 1 Participant** | TBD |
+| 11:50 | 📚 Challenge Session | **Task 2 Participant** | TBD |
+| 12:00 | 📚 Challenge Session | **Task 2 Participant** | TBD |
+| 12:10 | 📚 Challenge Session | **Task 2 Participant** | TBD |
+| 12:20 | 🔚 Closing | Wrap-up & Closing Remarks | Organisers |
+| 12:30 | 🍽️ Break | Lunch Break |  |
+<!-- | 12:30 | 💬 Discussion | Open Discussion & Interactive Session | All participants | -->
 
 ## Motivation
 Understanding information spread across text and table is essential for tasks such as question answering and fact checking. Existing benchmarks primarily deal with semantic table interpretation or reasoning over tables for question answering, leaving a gap in evaluating models that integrate tabular and textual information, perform joint information extraction across modalities, or can automatically detect inconsistencies between modalities.
