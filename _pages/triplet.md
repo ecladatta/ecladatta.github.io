@@ -24,7 +24,6 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
 | 12:10 | 📚 Challenge Session | **Task 2 Participant** | TBD |
 | 12:20 | 🔚 Closing | Wrap-up & Closing Remarks | Organisers |
 | 12:30 | 🍽️ Break | Lunch Break |  |
-<!-- | 12:30 | 💬 Discussion | Open Discussion & Interactive Session | All participants | -->
 
 ## Motivation
 Understanding information spread across text and table is essential for tasks such as question answering and fact checking. Existing benchmarks primarily deal with semantic table interpretation or reasoning over tables for question answering, leaving a gap in evaluating models that integrate tabular and textual information, perform joint information extraction across modalities, or can automatically detect inconsistencies between modalities.
