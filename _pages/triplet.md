@@ -13,15 +13,15 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
 |------|--------|------|-------------------|
 | 09:00 | 🚀 Opening | Welcome & Introduction | Organisers |
 | 09:10 | 🎤 Keynote | **TBD** | TBD |
-| 10:10 | 📚 Paper Session | **Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks** | Jingcheng Wu, Ratan Bahadur Thapa, Mojtaba Nayyeri, Lucas Etteldorf, Max Finkenbeiner, Fabian Leeske and Steffen Staab |
+| 10:10 | 📚 Paper Session | **Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks** | __Jingcheng Wu__, Ratan Bahadur Thapa, Mojtaba Nayyeri, Lucas Etteldorf, Max Finkenbeiner, Fabian Leeske and Steffen Staab |
 | 10:30 | ☕ Break | Coffee Break |  |
-| 11:00 | 📚 Paper Session | **From Rows to Narratives: Benchmarking Semantic Relatedness Across Tables and Paragraphs** | Fanfu Wei, Thibault Ehrhart and Raphaël Troncy |
+| 11:00 | 📚 Paper Session | **From Rows to Narratives: Benchmarking Semantic Relatedness Across Tables and Paragraphs** | Fanfu Wei, Thibault Ehrhart and __Raphaël Troncy__ |
 | 11:20 | 📚 Challenge Session | **TRIPLET Challenge Overview** | Raphael Troncy, Yoan Chabot, Véronique Moriceau, Nathalie Aussenac-Gilles and Mouna Kamel |
-| 11:30 | 📚 Challenge Session | **Task 1 Participant** | TBD |
-| 11:40 | 📚 Challenge Session | **Task 1 Participant** | TBD |
-| 11:50 | 📚 Challenge Session | **Task 2 Participant** | TBD |
-| 12:00 | 📚 Challenge Session | **Task 2 Participant** | TBD |
-| 12:10 | 📚 Challenge Session | **Task 2 Participant** | TBD |
+| 11:30 | 📚 Challenge Session | **Task 1 Participant** | Clement Benesse |
+| 11:40 | 📚 Challenge Session | **Task 1 Participant** | Yuuki Tachioka |
+| 11:50 | 📚 Challenge Session | **Task 2: TripleMap: Hybrid Schema-Grounded Table-Text RDF Triple Extraction with LLMs** | Shanthini Malarvizhi |
+| 12:00 | 📚 Challenge Session | **Task 2: Joint Relation Extraction Between Texts and Tables: A Feature Engineering Approach with Table Foundation Model** | Leandro Cesar, Rinaldo Lima, Nathalie Aussenac-Gilles |
+| 12:10 | 📚 Challenge Session | **Task 2 Participant** | Yuuki Tachioka |
 | 12:20 | 🔚 Closing | Wrap-up & Closing Remarks | Organisers |
 | 12:30 | 🍽️ Break | Lunch Break |  |
 
