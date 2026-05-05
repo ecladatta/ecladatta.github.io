@@ -13,7 +13,7 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
 |------|--------|------|-------------------|
 | 09:00 | 🚀 Opening | Welcome & Introduction | Organisers |
 | 09:10 | 🎤 Keynote | **TBD** | TBD |
-| 10:10 | 📚 Paper Session | **Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks** | __Jingcheng Wu__, Ratan Bahadur Thapa, Mojtaba Nayyeri, Lucas Etteldorf, Max Finkenbeiner, Fabian Leeske and Steffen Staab |
+| 10:10 | 📚 Paper Session | **Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks** | <u>Jingcheng Wu</u>, Ratan Bahadur Thapa, Mojtaba Nayyeri, Lucas Etteldorf, Max Finkenbeiner, Fabian Leeske and Steffen Staab |
 | 10:30 | ☕ Break | Coffee Break |  |
 | 11:00 | 📚 Paper Session | **From Rows to Narratives: Benchmarking Semantic Relatedness Across Tables and Paragraphs** | Fanfu Wei, Thibault Ehrhart and __Raphaël Troncy__ |
 | 11:20 | 📚 Challenge Session | **TRIPLET Challenge Overview** | Raphael Troncy, Yoan Chabot, Véronique Moriceau, Nathalie Aussenac-Gilles and Mouna Kamel |
