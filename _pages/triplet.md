@@ -20,7 +20,7 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
 | 11:30 | 📚 Challenge Session | **Task 1 Participant** | Clement Benesse |
 | 11:40 | 📚 Challenge Session | **Task 1: Improving Table–Text Relevance Classification with Cross-Encoders under Input Length Constraints** | <u>Yuuki Tachioka</u> |
 | 11:50 | 📚 Challenge Session | **Task 2: TripleMap: Hybrid Schema-Grounded Table-Text RDF Triple Extraction with LLMs** | <u>Shanthini Malarvizhi</u> |
-| 12:00 | 📚 Challenge Session | **Task 2: Joint Relation Extraction Between Texts and Tables: A Feature Engineering Approach with Table Foundation Model** | Leandro Cesar, Rinaldo Lima, <u>Nathalie Aussenac-Gilles</u> |
+| 12:00 | 📚 Challenge Session | **Task 2: Joint Relation Extraction Between Texts and Tables: A Feature Engineering Approach with Table Foundation Model** | Leandro Cesar, <u>Rinaldo Lima</u>, Nathalie Aussenac-Gilles |
 | 12:10 | 📚 Challenge Session | **Task 2: Improving Table–Text Triple Extraction with Candidate Generation and Relation Classification** | <u>Yuuki Tachioka</u> |
 | 12:20 | 🔚 Closing | Wrap-up & Closing Remarks | Organisers |
 | 12:30 | 🍽️ Break | Lunch Break |  |
