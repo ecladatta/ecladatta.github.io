@@ -12,7 +12,7 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
 | Time | Session | Title | Authors / Details |
 |------|--------|------|-------------------|
 | 09:00 | 🚀 Opening | Welcome & Introduction | Organisers |
-| 09:10 | 🎤 Keynote | **TBD** | TBD |
+| 09:10 | 🎤 Keynote | **Leave the modalities alone? When, where and if we should extract knowledge graphs from multiple modalities** | Paul Groth |
 | 10:10 | 📚 Paper Session | **Towards Foundation Models for Relational Databases with Language Models and Graph Neural Networks** | <u>Jingcheng Wu</u>, Ratan Bahadur Thapa, Mojtaba Nayyeri, Lucas Etteldorf, Max Finkenbeiner, Fabian Leeske and Steffen Staab |
 | 10:30 | ☕ Break | Coffee Break |  |
 | 11:00 | 📚 Paper Session | **From Rows to Narratives: Benchmarking Semantic Relatedness Across Tables and Paragraphs** | Fanfu Wei, Thibault Ehrhart and <u>Raphael Troncy</u> |
@@ -24,6 +24,43 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
 | 12:10 | 📚 Challenge Session | **Task 2: Improving Table–Text Triple Extraction with Candidate Generation and Relation Classification** | <u>Yuuki Tachioka</u> |
 | 12:20 | 🔚 Closing | Wrap-up & Closing Remarks | Organisers |
 | 12:30 | 🍽️ Break | Lunch Break |  |
+
+## 🎤 Keynote Talk
+
+<div style="display: flex; gap: 1.5rem; align-items: flex-start; flex-wrap: wrap; margin: 2rem 0;">
+
+  <div style="flex: 0 0 180px;">
+    <img src="http://pgroth.com/headshot-uva-small.jpeg" alt="Paul Groth" style="width: 180px; border-radius: 12px;">
+  </div>
+
+  <div style="flex: 1; min-width: 280px;">
+
+### Paul Groth
+
+**Professor of Algorithmic Data Science, University of Amsterdam**  
+Scientific Director, UvA Data Science Center  
+Lead, Intelligent Data Engineering Lab (INDElab)
+
+🔗 [Speaker bio](https://pgroth.com/bio/)  
+𝕏 [@pgroth](https://x.com/pgroth)
+
+### *Leave the modalities alone? When, where and if we should extract knowledge graphs from multiple modalities*
+
+We gather and record knowledge using multiple modalities. Each modality provides different affordances both from a technical and human perspective. The knowledge graph construction literature has tackled this from two perspectives: **1)** information extraction — extracting a unified KG representation from different modalities; and **2)** multimodal knowledge graphs — using the KG to connect modalities while leaving much of the knowledge in its native format.
+
+Alternatively, multimodal representation learning and foundation models treat modalities as they are, unifying signal from these multiple modalities for downstream tasks. In this talk, I use our recent work on multimodal knowledge graph construction and table representation learning to reflect on the role of knowledge graphs in helping to use our multimodal information space.
+
+  </div>
+</div>
+
+### About the speaker
+
+Paul Groth is Professor of Algorithmic Data Science at the University of Amsterdam, where he leads the Intelligent Data Engineering Lab, INDElab, and is scientific director of the UvA’s Data Science Center. He holds a Ph.D. in Computer Science from the University of Southampton, 2007, and has done research at the University of Southern California, the Vrije Universiteit Amsterdam, and Elsevier Labs.
+
+His research focuses on intelligent systems for dealing with large amounts of diverse contextualized data, with a particular focus on web and science applications. This includes research in data provenance, data integration, and knowledge sharing.
+
+Paul is co-author of *Provenance: An Introduction to PROV* and *The Semantic Web Primer, 3rd Edition*, as well as numerous academic articles.
+
 
 ## Motivation
 Understanding information spread across text and table is essential for tasks such as question answering and fact checking. Existing benchmarks primarily deal with semantic table interpretation or reasoning over tables for question answering, leaving a gap in evaluating models that integrate tabular and textual information, perform joint information extraction across modalities, or can automatically detect inconsistencies between modalities.
