@@ -105,7 +105,7 @@ Participants should [register on Codabench](https://www.codabench.org/) and then
 | Release of test set                   | 24 March 2026 |
 | Submission of results                 | 20 April 2026 |
 | Submission of System Papers           | 28 April 2026 |
-| Presentations @ TRIPLET Workshop      | May 2026 |
+| Presentations @ TRIPLET Workshop      | 11 May 2026 |
 
 ## Workshop Organizers
 - [Raphael Troncy](https://www.eurecom.fr/fr/people/troncy-raphael) (EURECOM, France)
