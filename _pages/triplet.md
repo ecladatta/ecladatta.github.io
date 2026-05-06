@@ -30,37 +30,56 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
 <div style="display: flex; gap: 1.5rem; align-items: flex-start; flex-wrap: wrap; margin: 2rem 0;">
 
   <div style="flex: 0 0 180px;">
-    <img src="http://pgroth.com/headshot-uva-small.jpeg" alt="Paul Groth" style="width: 180px; border-radius: 12px;">
+    <img src="https://pgroth.com/headshot-uva-small.jpeg"
+         alt="Paul Groth"
+         style="width: 180px; border-radius: 12px;">
   </div>
 
   <div style="flex: 1; min-width: 280px;">
 
-### Paul Groth
+    <h3 style="margin-top: 0;">Paul Groth</h3>
 
-**Professor of Algorithmic Data Science, University of Amsterdam**  
-Scientific Director, UvA Data Science Center  
-Lead, Intelligent Data Engineering Lab (INDElab)
+    <p>
+      <strong>Professor of Algorithmic Data Science, University of Amsterdam</strong><br>
+      Scientific Director, UvA Data Science Center<br>
+      Lead, Intelligent Data Engineering Lab (INDElab)
+    </p>
 
-🔗 [Speaker bio](https://pgroth.com/bio/)  
-𝕏 [@pgroth](https://x.com/pgroth)
+    <p>
+      <a href="https://pgroth.com/bio/">Speaker bio</a> ·
+      <a href="https://x.com/pgroth">@pgroth</a>
+    </p>
 
-### *Leave the modalities alone? When, where and if we should extract knowledge graphs from multiple modalities*
+    <h3>
+      <em>Leave the modalities alone? When, where and if we should extract knowledge graphs from multiple modalities</em>
+    </h3>
 
-We gather and record knowledge using multiple modalities. Each modality provides different affordances both from a technical and human perspective. The knowledge graph construction literature has tackled this from two perspectives: **1)** information extraction — extracting a unified KG representation from different modalities; and **2)** multimodal knowledge graphs — using the KG to connect modalities while leaving much of the knowledge in its native format.
+    <p>
+      We gather and record knowledge using multiple modalities. Each modality provides different affordances both from a technical and human perspective. The knowledge graph construction literature has tackled this from two perspectives:
+      <strong>1)</strong> information extraction — extracting a unified KG representation from different modalities; and
+      <strong>2)</strong> multimodal knowledge graphs — using the KG to connect modalities while leaving much of the knowledge in its native format.
+    </p>
 
-Alternatively, multimodal representation learning and foundation models treat modalities as they are, unifying signal from these multiple modalities for downstream tasks. In this talk, I use our recent work on multimodal knowledge graph construction and table representation learning to reflect on the role of knowledge graphs in helping to use our multimodal information space.
+    <p>
+      Alternatively, multimodal representation learning and foundation models treat modalities as they are, unifying signal from these multiple modalities for downstream tasks. In this talk, I use our recent work on multimodal knowledge graph construction and table representation learning to reflect on the role of knowledge graphs in helping to use our multimodal information space.
+    </p>
 
   </div>
 </div>
 
-### About the speaker
+<h3>About the speaker</h3>
 
-Paul Groth is Professor of Algorithmic Data Science at the University of Amsterdam, where he leads the Intelligent Data Engineering Lab, INDElab, and is scientific director of the UvA’s Data Science Center. He holds a Ph.D. in Computer Science from the University of Southampton, 2007, and has done research at the University of Southern California, the Vrije Universiteit Amsterdam, and Elsevier Labs.
+<p>
+  Paul Groth is Professor of Algorithmic Data Science at the University of Amsterdam, where he leads the Intelligent Data Engineering Lab, INDElab, and is scientific director of the UvA’s Data Science Center. He holds a Ph.D. in Computer Science from the University of Southampton, 2007, and has done research at the University of Southern California, the Vrije Universiteit Amsterdam, and Elsevier Labs.
+</p>
 
-His research focuses on intelligent systems for dealing with large amounts of diverse contextualized data, with a particular focus on web and science applications. This includes research in data provenance, data integration, and knowledge sharing.
+<p>
+  His research focuses on intelligent systems for dealing with large amounts of diverse contextualized data, with a particular focus on web and science applications. This includes research in data provenance, data integration, and knowledge sharing.
+</p>
 
-Paul is co-author of *Provenance: An Introduction to PROV* and *The Semantic Web Primer, 3rd Edition*, as well as numerous academic articles.
-
+<p>
+  Paul is co-author of <em>Provenance: An Introduction to PROV</em> and <em>The Semantic Web Primer, 3rd Edition</em>, as well as numerous academic articles.
+</p>
 
 ## Motivation
 Understanding information spread across text and table is essential for tasks such as question answering and fact checking. Existing benchmarks primarily deal with semantic table interpretation or reasoning over tables for question answering, leaving a gap in evaluating models that integrate tabular and textual information, perform joint information extraction across modalities, or can automatically detect inconsistencies between modalities.
