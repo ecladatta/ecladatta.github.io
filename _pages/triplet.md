@@ -45,27 +45,22 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
       Lead, Intelligent Data Engineering Lab (INDElab)
     </p>
 
-    <p>
-      <a href="https://pgroth.com/bio/">Speaker bio</a> ·
-      <a href="https://x.com/pgroth">@pgroth</a>
-    </p>
-
-    <h3>
-      <em>Leave the modalities alone? When, where and if we should extract knowledge graphs from multiple modalities</em>
-    </h3>
-
-    <p>
-      We gather and record knowledge using multiple modalities. Each modality provides different affordances both from a technical and human perspective. The knowledge graph construction literature has tackled this from two perspectives:
-      <strong>1)</strong> information extraction — extracting a unified KG representation from different modalities; and
-      <strong>2)</strong> multimodal knowledge graphs — using the KG to connect modalities while leaving much of the knowledge in its native format.
-    </p>
-
-    <p>
-      Alternatively, multimodal representation learning and foundation models treat modalities as they are, unifying signal from these multiple modalities for downstream tasks. In this talk, I use our recent work on multimodal knowledge graph construction and table representation learning to reflect on the role of knowledge graphs in helping to use our multimodal information space.
-    </p>
-
   </div>
 </div>
+
+<h3>
+   <em>Leave the modalities alone? When, where and if we should extract knowledge graphs from multiple modalities</em>
+</h3>
+
+<p>
+  We gather and record knowledge using multiple modalities. Each modality provides different affordances both from a technical and human perspective. The knowledge graph construction literature has tackled this from two perspectives:
+   <strong>1)</strong> information extraction — extracting a unified KG representation from different modalities; and
+   <strong>2)</strong> multimodal knowledge graphs — using the KG to connect modalities while leaving much of the knowledge in its native format.
+</p>
+
+<p>
+   Alternatively, multimodal representation learning and foundation models treat modalities as they are, unifying signal from these multiple modalities for downstream tasks. In this talk, I use our recent work on multimodal knowledge graph construction and table representation learning to reflect on the role of knowledge graphs in helping to use our multimodal information space.
+</p>
 
 <h3>About the speaker</h3>
 
@@ -74,11 +69,7 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
 </p>
 
 <p>
-  His research focuses on intelligent systems for dealing with large amounts of diverse contextualized data, with a particular focus on web and science applications. This includes research in data provenance, data integration, and knowledge sharing.
-</p>
-
-<p>
-  Paul is co-author of <em>Provenance: An Introduction to PROV</em> and <em>The Semantic Web Primer, 3rd Edition</em>, as well as numerous academic articles.
+  His research focuses on intelligent systems for dealing with large amounts of diverse contextualized data, with a particular focus on web and science applications. This includes research in data provenance, data integration, and knowledge sharing. Paul is co-author of <em>Provenance: An Introduction to PROV</em> and <em>The Semantic Web Primer, 3rd Edition</em>, as well as numerous academic articles. You can find him on X: <a href="https://x.com/pgroth">@pgroth</a>.
 </p>
 
 ## Motivation
