@@ -17,7 +17,7 @@ TRIPLET 2026: International Workshop on Extraction from Triplet Text-Table-Knowl
 | 10:30 | ☕ Break | Coffee Break |  |
 | 11:00 | 📚 Paper Session | **From Rows to Narratives: Benchmarking Semantic Relatedness Across Tables and Paragraphs** | Fanfu Wei, Thibault Ehrhart and <u>Raphael Troncy</u> |
 | 11:20 | 📚 Challenge Session | **TRIPLET Challenge Overview** | Raphael Troncy, Yoan Chabot, Véronique Moriceau, Nathalie Aussenac-Gilles and Mouna Kamel |
-| 11:30 | 📚 Challenge Session | **Task 1 Participant** | Clement Benesse |
+| 11:30 | 📚 Challenge Session | **Task 1: Iterating on text-table pairing under prosumer hardware constraint** | Clement Benesse |
 | 11:40 | 📚 Challenge Session | **Task 1: Candidate-Aware Table Serialization and Cross-Encoder Ranking for Table--Text Relatedness** | <u>Yuuki Tachioka</u> |
 | 11:50 | 📚 Challenge Session | **Task 2: TripleMap: Hybrid Schema-Grounded Table-Text RDF Triple Extraction with LLMs** | <u>Shanthini Malarvizhi</u> |
 | 12:00 | 📚 Challenge Session | **Task 2: Joint Relation Extraction Between Texts and Tables: A Feature Engineering Approach with Table Foundation Model** | Leandro Cesar, <u>Rinaldo Lima</u>, Nathalie Aussenac-Gilles |
