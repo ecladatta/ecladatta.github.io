@@ -36,18 +36,18 @@ The ECLADATTA project aims at leveraging this complementarity between tables, te
 <img src="images/orange.png" alt= "Orange" width="80px" style="margin-right: 20px"><img src="images/eurecom.jpg" alt= "EURECOM" width="166px" style="margin-right: 20px"><img src="images/irit.png" alt="IRIT" width="74px">
 
 ### Members
-* [Yoan Chabot (lead, Orange)](https://yoanchabot.github.io/)
-* [Raphaël Troncy (lead, EURECOM)](https://www.eurecom.fr/fr/people/troncy-raphael)
-* [Véronique Moriceau (lead, IRIT)](https://www.irit.fr/~Veronique.Moriceau/)
-* [Thibault Ehrhart (EURECOM)](https://ehrh.art/)
-* [Fanfu Wei (EURECOM)](https://www.eurecom.fr/fr/people/wei-fanfu)
-* [Nathalie Aussenac-Gilles (IRIT)](https://www.irit.fr/~Nathalie.Aussenac-Gilles/)
-* [Mouna Kamel (IRIT)](https://www.irit.fr/~Mouna.Kamel/)
-* [Mohamed Ettaleb (IRIT)](https://scholar.google.com/citations?user=w1V8ka4AAAAJ&hl=fr)
-* [Johannes Heinecke (Orange)](https://scholar.google.com/citations?user=PNPtZ8YAAAAJ&hl=en)
-* Frédéric Deuzé (Orange)
-* Jean-Yves Lancien (Orange)
-* Pierre Monnin (Orange)
+* [Yoan Chabot (lead, researcher, Orange)](https://yoanchabot.github.io/)
+* [Raphaël Troncy (lead, researcher, EURECOM)](https://www.eurecom.fr/fr/people/troncy-raphael)
+* [Véronique Moriceau (lead, researcher, IRIT)](https://www.irit.fr/~Veronique.Moriceau/)
+* [Nathalie Aussenac-Gilles (researcher, IRIT)](https://www.irit.fr/~Nathalie.Aussenac-Gilles/)
+* [Mouna Kamel (researcher, IRIT)](https://www.irit.fr/~Mouna.Kamel/)
+* [Mohamed Ettaleb (post-doc, IRIT)](https://scholar.google.com/citations?user=w1V8ka4AAAAJ&hl=fr)
+* [Johannes Heinecke (researcher, Orange)](https://scholar.google.com/citations?user=PNPtZ8YAAAAJ&hl=en)
+* [Thibault Ehrhart (engineer, EURECOM)](https://ehrh.art/)
+* [Fanfu Wei (post-doc, EURECOM)](https://www.eurecom.fr/fr/people/wei-fanfu)
+* Frédéric Deuzé (engineer, Orange)
+* Jean-Yves Lancien (engineer, Orange)
+* Pierre Monnin (researcher, Orange)
 
 ### Associated Partner
 
