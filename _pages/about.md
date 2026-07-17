@@ -36,9 +36,9 @@ The ECLADATTA project aims at leveraging this complementarity between tables, te
 <img src="images/orange.png" alt= "Orange" width="80px" style="margin-right: 20px"><img src="images/eurecom.jpg" alt= "EURECOM" width="166px" style="margin-right: 20px"><img src="images/irit.png" alt="IRIT" width="74px">
 
 ### Members
-* [Yoan Chabot (lead, researcher, Orange)](https://yoanchabot.github.io/)
-* [Raphaël Troncy (lead, researcher, EURECOM)](https://www.eurecom.fr/fr/people/troncy-raphael)
-* [Véronique Moriceau (lead, researcher, IRIT)](https://www.irit.fr/~Veronique.Moriceau/)
+* [Yoan Chabot (project coordinator and WP lead, researcher, Orange)](https://yoanchabot.github.io/)
+* [Raphaël Troncy (scientific coordinator and WP lead, researcher, EURECOM)](https://www.eurecom.fr/fr/people/troncy-raphael)
+* [Véronique Moriceau (WP lead, researcher, IRIT)](https://www.irit.fr/~Veronique.Moriceau/)
 * [Nathalie Aussenac-Gilles (researcher, IRIT)](https://www.irit.fr/~Nathalie.Aussenac-Gilles/)
 * [Mouna Kamel (researcher, IRIT)](https://www.irit.fr/~Mouna.Kamel/)
 * [Mohamed Ettaleb (post-doc, IRIT)](https://scholar.google.com/citations?user=w1V8ka4AAAAJ&hl=fr)
