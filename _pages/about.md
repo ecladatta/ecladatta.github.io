@@ -38,6 +38,7 @@ The ECLADATTA project aims at leveraging this complementarity between tables, te
 * [Johannes Heinecke ](https://scholar.google.com/citations?user=PNPtZ8YAAAAJ&hl=en)
 * Frédéric Deuzé 
 * Jean-Yves Lancien
+* Pierre Monnin
 
 <img src="images/eurecom.jpg" alt= "EURECOM" width="166px" style="margin-right: 20px">
 * [Raphaël Troncy (lead)](https://www.eurecom.fr/fr/people/troncy-raphael)
