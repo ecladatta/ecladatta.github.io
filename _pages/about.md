@@ -33,7 +33,7 @@ The ECLADATTA project aims at leveraging this complementarity between tables, te
 
 ### Consortium
 
-<img src="images/orange.png" alt= "Orange" width="80px" style="margin-right: 20px"><img src="images/eurecom.jpg" alt= "EURECOM" width="166px" style="margin-right: 20px"><img src="images/irit.png" alt="IRIT" width="74px">
+<a href="https://www.orange.com/en" target="_blank" rel="noopener"><img src="images/orange.png" alt= "Orange" width="80px" style="margin-right: 20px"></a><a href="https://www.eurecom.fr/en" target="_blank" rel="noopener"><img src="images/eurecom.jpg" alt= "EURECOM" width="166px" style="margin-right: 20px"></a><a href="https://www.irit.fr/en/home/" target="_blank" rel="noopener"><img src="images/irit.png" alt="IRIT" width="74px"></a>
 
 ### Members
 * [Yoan Chabot (project coordinator and WP lead, researcher, Orange)](https://yoanchabot.github.io/)
@@ -50,8 +50,7 @@ The ECLADATTA project aims at leveraging this complementarity between tables, te
 * Pierre Monnin (researcher, Orange)
 
 ### Associated Partner
-
-<img src="images/wikimedia-fr.png" alt= "Wikimédia France" width="300px">
+<a href="https://www.wikimedia.fr/" target="_blank" rel="noopener"><img src="images/wikimedia-fr.png" alt= "Wikimédia France" width="300px"></a>
 
 <!--## Jobs
 
