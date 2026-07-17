@@ -44,7 +44,7 @@ The ECLADATTA project aims at leveraging this complementarity between tables, te
 * [Mohamed Ettaleb (post-doc, IRIT)](https://scholar.google.com/citations?user=w1V8ka4AAAAJ&hl=fr)
 * [Johannes Heinecke (researcher, Orange)](https://scholar.google.com/citations?user=PNPtZ8YAAAAJ&hl=en)
 * [Thibault Ehrhart (engineer, EURECOM)](https://ehrh.art/)
-* [Fanfu Wei (post-doc, EURECOM)](https://www.eurecom.fr/fr/people/wei-fanfu)
+* [Fanfu Wei (PhD, EURECOM)](https://www.eurecom.fr/fr/people/wei-fanfu)
 * Frédéric Deuzé (engineer, Orange)
 * Jean-Yves Lancien (engineer, Orange)
 * Pierre Monnin (researcher, Orange)
