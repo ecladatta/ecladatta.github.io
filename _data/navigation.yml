@@ -6,3 +6,5 @@ main:
     url: /publications/
   - title: "Talks"
     url: /talks/    
+  - title: "Datasets & Resources"
+    url: /datasets/    
