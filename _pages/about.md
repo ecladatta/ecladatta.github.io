@@ -33,7 +33,22 @@ The ECLADATTA project aims at leveraging this complementarity between tables, te
 
 ### Consortium
 
-<img src="images/orange.png" alt= "Orange" width="80px" style="margin-right: 20px"><img src="images/eurecom.jpg" alt= "EURECOM" width="166px" style="margin-right: 20px"><img src="images/irit.png" alt="IRIT" width="74px">
+<img src="images/orange.png" alt= "Orange" width="80px" style="margin-right: 20px">
+* [Yoan Chabot (lead)](https://yoanchabot.github.io/)
+* [Johannes Heinecke ](https://scholar.google.com/citations?user=PNPtZ8YAAAAJ&hl=en)
+* Frédéric Deuzé 
+* Jean-Yves Lancien
+
+<img src="images/eurecom.jpg" alt= "EURECOM" width="166px" style="margin-right: 20px">
+* [Raphaël Troncy (lead)](https://www.eurecom.fr/fr/people/troncy-raphael)
+* [Thibault Ehrhart](https://ehrh.art/)
+* [Fanfu Wei](https://www.eurecom.fr/fr/people/wei-fanfu)
+
+<img src="images/irit.png" alt="IRIT" width="74px">
+* [Véronique Moriceau (lead)](https://www.irit.fr/~Veronique.Moriceau/)
+* [Nathalie Aussenac-Gilles](https://www.irit.fr/~Nathalie.Aussenac-Gilles/)
+* [Mouna Kamel](https://www.irit.fr/~Mouna.Kamel/)
+* [Mohamed Ettaleb](https://scholar.google.com/citations?user=w1V8ka4AAAAJ&hl=fr)
 
 ### Associated Partner
 
