@@ -31,6 +31,7 @@ A manually annotated benchmark for **joint relation extraction across text and t
 **Access**
 - 📦 Dataset: *[link to be added]*
 - 🏆 Benchmark: [Codabench — Task 2](https://www.codabench.org/competitions/12936/)
+- 📄 Paper: [https://aclanthology.org/2026.lrec-1.104.pdf](https://aclanthology.org/2026.lrec-1.104.pdf)
 
 **How to cite**
 
@@ -54,11 +55,39 @@ A human-annotated benchmark for **semantic relatedness classification between ta
 **Access**
 - 📦 Dataset: [github.com/ecladatta/LATTE](https://github.com/ecladatta/LATTE)
 - 🏆 Benchmark: [Codabench — Task 1](https://www.codabench.org/competitions/12776/)
+- 📄 Paper: *[to be completed]*
 
 **How to cite**
 
 > Fanfu Wei, Thibault Ehrhart, Raphaël Troncy. *From Rows to Narratives: Benchmarking Semantic Relatedness Across Tables and Paragraphs.* TRIPLET 2026 Workshop @ ESWC 2026, Dubrovnik, Croatia, May 2026.
 
 
-## KONTRAST
-TBD
+## KONTRAST - Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs
+
+A benchmark and framework for **modality-level inconsistency detection**: for questions grounded in Wikipedia tables and text, KONTRAST compares the table-based answer with the answer retrieved from Wikidata through Text-to-SPARQL, then classifies any disagreement.
+
+| | |
+|---|---|
+| **Task** | Detect whether a table-based answer and a KG answer agree and, if not, categorize the inconsistency |
+| **Labels** | Same - Higher accuracy in KG than in Table - Higher accuracy in Table than in KG - Different answer - Temporal changes |
+| **Evaluation** | SPARQL execution validity, value-bearing answer rate, distribution of inconsistency labels |
+| **Language** | English |
+| **Size** | 2,870 questions (1,370 SimpleQA / 1,500 ComplexQA) from 9 Table-QA sources, with SPARQL outputs and inconsistency labels for 3 Qwen3 models |
+| **Sources** | Wikipedia tables, infoboxes and text (via NQ-Table, CompMix, QAMPARI, MoNaCo, OTT-QA, SportReason); Wikidata dump of 2025-05-10 |
+| **Contents** | Raw and filtered QA inputs, generated SPARQL queries and KG results (GRASP), LLM-as-a-judge pipeline, final labelled files and statistics |
+| **Licence** | *[to be completed]* |
+
+**Question groups**
+
+| Group | Source datasets | Evidence | Questions |
+|---|---|---|---|
+| SimpleQA | NQ-Table, CompMix-simple, QAMPARI | Table, infobox, or table + text | 1,370 |
+| ComplexQA | CompMix-infobox, CompMix-table, MoNaCo, MoNaCo-time, OTT-QA, SportReason | Table, infobox, text, multi-hop | 1,500 |
+
+**Access**
+- 📦 Dataset and code: [github.com/ecladatta/KONTRAST](https://github.com/ecladatta/KONTRAST)
+- 📄 Paper: [arXiv:2607.25959](https://arxiv.org/abs/2607.25959)
+
+**How to cite**
+
+> Fanfu Wei, Thibault Ehrhart, Raphaël Troncy. *Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs.* In Proceedings of the 25th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2026), Turin, Italy, 2026.
