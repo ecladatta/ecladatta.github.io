@@ -30,7 +30,6 @@ A manually annotated benchmark for **joint relation extraction across text and t
 
 **Access**
 - 📦 Dataset: *[link to be added]*
-- 🏆 Benchmark: [Codabench — Task 2](https://www.codabench.org/competitions/12936/)
 - 📄 Paper: [https://aclanthology.org/2026.lrec-1.104.pdf](https://aclanthology.org/2026.lrec-1.104.pdf)
 
 **How to cite**
@@ -54,7 +53,6 @@ A human-annotated benchmark for **semantic relatedness classification between ta
 
 **Access**
 - 📦 Dataset: [github.com/ecladatta/LATTE](https://github.com/ecladatta/LATTE)
-- 🏆 Benchmark: [Codabench — Task 1](https://www.codabench.org/competitions/12776/)
 - 📄 Paper: *[to be completed]*
 
 **How to cite**
