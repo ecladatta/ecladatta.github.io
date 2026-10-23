@@ -29,7 +29,7 @@ A manually annotated benchmark for **joint relation extraction across text and t
 | Telecommunications | English | 32 full pages, 144 tables | 35 Wikidata properties (open) | 1,574 |
 
 **Access**
-- 📦 Dataset: *[link to be added]*
+- 📦 Dataset: [https://github.com/ecladatta/ReTaT](https://github.com/ecladatta/ReTaT)
 - 📄 Paper: [https://aclanthology.org/2026.lrec-1.104.pdf](https://aclanthology.org/2026.lrec-1.104.pdf)
 
 **How to cite**
